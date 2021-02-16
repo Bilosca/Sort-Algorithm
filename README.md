@@ -1,4 +1,4 @@
-# Estudo de Algoritmos de Struturas.
+# Estudo de Algoritmos de Estruturas.
 Com objetivo de aprender mais sobre os fundamentos das Estruturas de Dados e as maneiras de as manipular, este Repositório foi criado com o objetivo de registrar os aprendizados e práticas sobre o assunto.
 
 ### Sort Algorithm.
